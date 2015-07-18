@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\KObac\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\KObac\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\gson-2.3.1-79bc4e03555c2c4c84cbc962d5255af59cdd1269.jar" />
+    </item>
+    <item
+        jar="C:\Users\KObac\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="22886d910315028a2b34b1ba068c265534ade87a">
+        <dex dex="C:\Users\KObac\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-02e9afd7ed5d3714c568604409558dfe2b788c2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\KObac\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\KObac\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-4520cb4d2878f29a459d151b4ba1c6fb6c3eb252.jar" />
+    </item>
+    <item
+        jar="C:\Users\KObac\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\KObac\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-53d37333b5447e4073e0afbdb466107149577187.jar" />
+    </item>
+    <item
+        jar="C:\Users\KObac\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\KObac\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-1811a2799a78816474257630e9ec352764f505a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\KObac\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\KObac\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-436159abe603e12293b1831357b05357b3a08573.jar" />
+    </item>
+    <item
+        jar="C:\Users\KObac\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\KObac\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-44210a67a73f08db2edab08fef92331bfea6fb2d.jar" />
+    </item>
+
+</items>

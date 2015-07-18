@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\SPACEMAN\.gradle\caches\modules-2\files-2.1\com.joanzapata.android\android-iconify\1.0.9\27817b0ae26d4fa788711f1f75aaa45d76901722\android-iconify-1.0.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="27817b0ae26d4fa788711f1f75aaa45d76901722">
+        <dex dex="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\pre-dexed\debug\android-iconify-1.0.9-dbfaa5266961d7b10fbeb40208ef449197daba01.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPACEMAN\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\pre-dexed\debug\library-2.4.0-4d5541e157fff37ff5b6b790b31e8eb51b63821b.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-ba15391c4a610f7d4e1b63f6b68a2382113156da.jar" />
+    </item>
+    <item
+        jar="E:\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-623bb61cfa9e77d0c1851a2982530189f14f2814.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-18eb82f0dd3acbf6e3a4567da5486afcd2331d19.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\exploded-aar\MaterialDesign\GuillotineMenu\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cc0ac633ea80cef431b417e1192e27b4f7197747">
+        <dex dex="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-4802d1e158f113c5b1182dfd7e8f2ad1eede3e42.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPACEMAN\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\pre-dexed\debug\gson-2.3.1-c71b5cffc1b4bb1bf6c1dbc2f854532c521a0b9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="22886d910315028a2b34b1ba068c265534ade87a">
+        <dex dex="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-b472a66f45d61aea7498a03db5c3c79955201202.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\exploded-aar\me.grantland\autofittextview\0.2.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="972ca945f0cf5ff0765ab94fa8e1a90661ea197a">
+        <dex dex="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-029296433598faa8e94dba4cc13d4841001c5223.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\exploded-aar\com.github.ganfra\material-spinner\1.1.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a973f67796996adb991bd6e63a11b2b88a571219">
+        <dex dex="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-817137d3dabf5d25557a77952c1c0334022fc4e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-fc3aa6b02ff6414270785c1c775fd6adf6159a04.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-c937c9d849c0a3407c6a93b75856fe7c544cbe26.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\exploded-aar\com.github.traex.rippleeffect\library\1.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ee17feb34ce104bc17d1a1e64346d7f779ebb066">
+        <dex dex="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-4ffc0a57557988005902f4277bd81d5d7ec8e906.jar" />
+    </item>
+    <item
+        jar="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\SPACEMAN\Downloads\MaterialDesign (2)\MaterialDesign\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-88fe42caa597111394384ac422b0036bc0b95cf8.jar" />
+    </item>
+
+</items>
